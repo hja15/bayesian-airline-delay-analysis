@@ -1,9 +1,9 @@
 # Bayesian Linear Regression for Airline Arrival Delays
 
-This project presents a **Bayesian linear regression analysis** examining how weather-related factors influence airline arrival delays.  
+This project presents a Bayesian linear regression analysis examining how weather-related factors influence airline arrival delays.  
 Rather than focusing solely on point estimates, the analysis emphasizes **probabilistic modeling, uncertainty quantification, and posterior interpretation**.
 
-**Interactive Project Website:**  
+**Project Website:**  
 [View the Analysis](https://hja15.github.io/IDC6940_BayesianBandits/BLRproject.html)
 
 ---
