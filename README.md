@@ -4,7 +4,7 @@ This project presents a Bayesian linear regression analysis examining how weathe
 Rather than focusing solely on point estimates, the analysis emphasizes probabilistic modeling, uncertainty quantification, and posterior interpretation.
 
 **Project Website:**  
-[View the Analysis](https://hja15.github.io/IDC6940_BayesianBandits/BLRproject.html)
+[View the Analysis](https://hja15.github.io/bayesian-airline-delay-analysis/)
 
 ---
 
