@@ -58,5 +58,5 @@ These properties make Bayesian methods especially well-suited for applied proble
 
 ## Repository Notes
 
-This repository intentionally contains **only the final project website and this overview README**.  
+This repository intentionally contains only the final project website and this overview README.  
 Supporting coursework files and drafts were excluded to maintain a clean, professional presentation focused on the final analysis.
