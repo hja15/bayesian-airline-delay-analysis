@@ -11,7 +11,7 @@ Rather than focusing solely on point estimates, the analysis emphasizes probabil
 ## Project Overview
 
 Airline arrival delays are influenced by a range of operational and environmental factors, with weather frequently cited as a major contributor.  
-This project investigates the relationship between **weather-related delay events and arrival delays** using a Bayesian framework.
+This project investigates the relationship between weather-related delay events and arrival delays using a Bayesian framework.
 
 The primary goals of the analysis were to:
 - Model arrival delays using Bayesian linear regression
